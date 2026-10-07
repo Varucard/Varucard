@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Desarrollando desde 2019<br>📚 Actualmente aprendiendo nuevas herramientas de IA y Frameworks<br>🎯 Objetivo 2025: Crecimiento laboral<br>🎲 Me encantan las noches de codeo</p>
+<p align="left">✨ Desarrollando desde 2019<br>📚 Actualmente aprendiendo nuevas herramientas de IA y Frameworks<br>🎯 Objetivo 2026: Crecimiento laboral<br>🎲 Me encantan las noches de codeo</p>
 
 ###
 
