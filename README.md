@@ -7,12 +7,14 @@
 <h1 align="left">Hola 👋 ¿Qué tal?</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=39D353&vCenter=true&width=480&lines=Desarrollador+Back-end+%F0%9F%87%A6%F0%9F%87%B7;PHP+%C2%B7+Node+%C2%B7+NestJS+%C2%B7+Docker;Fundador+de+PC+Fighter+%F0%9F%A5%8A" alt="Desarrollador Back-end · PHP · Node · NestJS · Docker · Fundador de PC Fighter">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=39D353&vCenter=true&width=480&lines=Desarrollador+Back-end+%C2%B7+Argentina;PHP+%C2%B7+Node+%C2%B7+NestJS+%C2%B7+Docker;Fundador+de+PC+Fighter+%F0%9F%A5%8A" alt="Desarrollador Back-end · PHP · Node · NestJS · Docker · Fundador de PC Fighter">
 </p>
 
 <p align="left">
   Soy <b>Cristian Ariel Marquez</b>, desarrollador back-end de Argentina.<br>
   Fundé <b><a href="https://github.com/PC-Fighter">PC Fighter</a></b>, donde hago desarrollo a medida, servidores y soporte IT.
+<br>
+  <sub>🌎 <i>Back-end developer from Argentina, founder of PC Fighter: custom software, servers and IT support. Open to remote work.</i></sub>
 </p>
 
 <p align="left">
